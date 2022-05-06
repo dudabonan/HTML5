@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="shortcut icon" href="toad.ico" type="image/x-icon">
+        <title>Social</title>
+    </head>
+<body>
+    <h1>Minhas redes sociais</h1>
+    <h2>Quem sou eu?</h2>
+    <img src="imagens/eu.gif" alt="Minha foto">
+    <p>Meu nome é <b>Maria Eduarda Bonan</b>, sou estudante do Senai desde 2021 e hoje curso Desenvolvimento de Sistemas.</p>
+    <h2>Como falar comigo?</h2>
+    <ul type="square">
+        <li><img src="imagens/instagram.webp" alt="Símbolo" height="20" width="20"><a href="https://www.instagram.com/duda.bonan">/duda.bonan</a> - Me segue lá no Instagram</li>
+        <li><img src="imagens/github.png" alt="GitHub" height="20" width="20"><a href="https://github.com/dudabonan">/dudabonan</a> - Acessa meu repositório público no GitHub</li>
+    </ul>
+</body>
+</html>
